@@ -1,5 +1,5 @@
 # CamTheGeek
-This is my general utilities class library.  Right now, there's only the one class in the library.  Looking to add more
+This is my general utilities class library.  Right now, there's only the one class in the library.  Will add more as they come up.  I welcome contributions.
 
 ## GenericWebApiClient Usage
 
