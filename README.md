@@ -1,9 +1,9 @@
 # CamTheGeek
-This is my general utilities class library.  Right now, there's only the one class in the library.  Will add more as they come up.  I welcome contributions.
+This is my general utilities class library. Can you call it a library when there's only one class? Beats me, but I had to put it somewhere and this saves me 5 minutes every time I need it.
 
 ## GenericWebApiClient Usage
 
-This is a class to make calling a scaffolded ASP.NET Web API controller extremely simple.  Just instantiate it with the type of object your Web API scaffolded controller uses, like this:
+This is a class to make calling a scaffolded ASP.NET Web API controller extremely simple. Just instantiate it with the type of object your Web API scaffolded controller uses, like this:
 
 `GenericWebApiClient<Movie> movieservice = new GenericWebApiClient<Movie>(new Url("http://mywebapi.com/movies")`
 
